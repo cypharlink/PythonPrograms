@@ -5,15 +5,15 @@ print("==============\n")
 def line():
     print("\n------------------------\n")
 
-first_num = input("Enter your first number: ")
+first_num = input("Number: ")
 
 line()
 
-second_num = input("Enter your second number: ")
+second_num = input("Number: ")
 
 line()
 
-operator = input("Enter operator (+, -, *, /): ")
+operator = input("Operator (+, -, *, /): ")
 
 line()
 
